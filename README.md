@@ -1,3 +1,2 @@
 # OCTANET_FEBRUARY
-This is octanet_february repository
-like this file...
+Landing page using html & css
